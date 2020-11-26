@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RickMortyApp</string>
+    <string name="titulo_app">Rick y Morty</string>
+    <string name="personajes_tab">personajes</string>
+    <string name="ubicaciones_tab">ubicaciones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
